@@ -33,5 +33,6 @@ The same function was also saved in Jupyter Notebook file robo_advisor.ipynb.
 
 - The recommendPortfolio function was tested using the test cases contained in the folder Taste Cases.
 
-- The performance of Robo Advisor was screen-recorded using Xbox Game Bar and the video file was saved as RoboAdvisor_LEX_BOT_VIDEO file.
+- The Bot performance was recorded using MAC QuickTime Player
 
+- Although the icons are available with public access, but the images were broken
